@@ -4,5 +4,5 @@
 - 🌱 I’m currently learning Angular
 - 📫 How to reach me: <evelina.zheng@uwaterloo.ca>
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love working out, dancing, singing my heart out, and volleyball! 
+- ⚡ Fun fact: I love working out, dancing, singing my heart out, and volleyball! I also used to do math contests in high school 🤓
 #### Thanks for checking out my page!
